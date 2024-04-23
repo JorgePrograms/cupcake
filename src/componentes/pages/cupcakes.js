@@ -1,15 +1,14 @@
 import { useEffect, useState } from "react";
 import Cupcake from "../cards/Cupcake";
+import Axios from "axios";
 
 const Cupcakes = ({ peticion, title }) => {
     
     const [cupcakes, setCupcakes] = useState()
 
     useEffect(()=>{
-        fetch(`${process.env.REACT_APP_URL_API}${peticion}`)
-        .then(response => response.json())
-        .then(data => setCupcakes(data))
-        .catch(e=> console.log(e))
+        Axios.get(`${process.env.REACT_APP_URL_API}${peticion}`)
+        .then(({ data }) => setCupcakes(data))
     },[peticion])
     
     
