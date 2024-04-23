@@ -1,0 +1,41 @@
+.main-banner {
+    width: 100%;
+    height: 300px; /* Altura ajustable según necesidades */
+    background-color: #333; /* Color de fondo del banner */
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+  .main-banner__title {
+    font-size: 3em;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para el texto */
+  }
+  
+  .main-banner__description {
+    font-size: 1.5em;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para el texto */
+  }
+  
+  .main-banner__button {
+    padding: 15px 30px;
+    font-size: 1.5em;
+    background-color: #007bff; /* Color del botón */
+    color: white;
+    border: none;
+    border-radius: 25px; /* Botón redondeado */
+    cursor: pointer;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para el texto */
+    transition: background-color 0.3s ease; /* Transición suave para el color de fondo */
+  }
+  
+  .main-banner__button:hover {
+    background-color: #0056b3; /* Cambio de color al pasar el ratón por encima */
+  }

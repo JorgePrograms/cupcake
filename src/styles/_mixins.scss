@@ -1,0 +1,10 @@
+
+@mixin link{
+    color:black;
+    font-weight: 700;
+    font-style: none;
+    text-decoration: none; //quitar subrayado
+    &:hover{
+        cursor: pointer;
+    }
+}

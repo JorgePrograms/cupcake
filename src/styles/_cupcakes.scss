@@ -1,0 +1,22 @@
+.main-cupcakes h1{
+    margin-left: 20px;
+}
+
+.main-conatiner-cupcakes{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 20px;
+    column-gap: 20px;
+    margin: 20px;
+    @media (min-width:550px){
+    
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    @media (min-width:750px){
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+
+}
+

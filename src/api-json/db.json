@@ -1,0 +1,84 @@
+{
+  "cupcakes": [
+    {
+      "id":1,
+      "sabor": "vainilla",
+      "color": "amarillo",
+      "descripcion":"Gran cupcake con sabor vainilla",
+      "precio": "12",
+      "imagen":"https://i.pinimg.com/originals/2a/e7/b8/2ae7b831c3264a0e6f255f7b953ec5e4.png"
+    },
+    {
+      "id": 2,
+      "sabor": "chocolate",
+      "color": "marron",
+      "descripcion":"Gran cupcake con sabor chocolate",
+      "precio": "15",
+      "imagen":"https://i.pinimg.com/originals/2a/e7/b8/2ae7b831c3264a0e6f255f7b953ec5e4.png"
+    },
+    {
+      "id": 3,
+      "sabor": "fresa",
+      "color": "rosado",
+      "descripcion":"Gran cupcake con sabor clasica",
+      "precio": "17",
+      "imagen":"https://i.pinimg.com/originals/2a/e7/b8/2ae7b831c3264a0e6f255f7b953ec5e4.png"
+    },
+    {
+      "id": 4,
+      "sabor": "lucuma",
+      "color": "amarillo",
+      "descripcion":"Gran cupcake con sabor lucma",
+      "precio": "16",
+      "imagen":"https://i.pinimg.com/originals/2a/e7/b8/2ae7b831c3264a0e6f255f7b953ec5e4.png"
+    },
+    {
+      "id": 5,
+      "sabor": "maraculla",
+      "color": "dorado",
+      "descripcion":"Gran cupcake con sabor maracuya",
+      "precio": "14",
+      "imagen":"https://i.pinimg.com/originals/2a/e7/b8/2ae7b831c3264a0e6f255f7b953ec5e4.png"
+    },
+    {
+      "id":6,
+      "sabor": "vainilla",
+      "color": "amarillo",
+      "descripcion":"Gran cupcake con sabor vainilla",
+      "precio": "12",
+      "imagen":"https://i.pinimg.com/originals/2a/e7/b8/2ae7b831c3264a0e6f255f7b953ec5e4.png"
+    },
+    {
+      "id": 7,
+      "sabor": "chocolate",
+      "color": "marron",
+      "descripcion":"Gran cupcake con sabor chocolate",
+      "precio": "15",
+      "imagen":"https://i.pinimg.com/originals/2a/e7/b8/2ae7b831c3264a0e6f255f7b953ec5e4.png"
+    },
+    {
+      "id": 8,
+      "sabor": "fresa",
+      "color": "rosado",
+      "descripcion":"Gran cupcake con sabor clasica",
+      "precio": "17",
+      "imagen":"https://i.pinimg.com/originals/2a/e7/b8/2ae7b831c3264a0e6f255f7b953ec5e4.png"
+    },
+    {
+      "id": 9,
+      "sabor": "lucuma",
+      "color": "amarillo",
+      "descripcion":"Gran cupcake con sabor lucma",
+      "precio": "16",
+      "imagen":"https://i.pinimg.com/originals/2a/e7/b8/2ae7b831c3264a0e6f255f7b953ec5e4.png"
+    },
+    {
+      "id": 10,
+      "sabor": "maraculla",
+      "color": "dorado",
+      "descripcion":"Gran cupcake con sabor maracuya",
+      "precio": "14",
+      "imagen":"https://i.pinimg.com/originals/2a/e7/b8/2ae7b831c3264a0e6f255f7b953ec5e4.png"
+    }
+  ]
+}

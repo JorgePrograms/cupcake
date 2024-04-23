@@ -1,0 +1,15 @@
+.contenedor-Cupcake{
+display: flex;
+flex-direction: column;
+height: 300px;
+align-items: center;
+border: 1px solid red;
+border-radius: 10px;
+background: white;
+
+}
+
+.contenedor-Cupcake img {
+   height: 60%;
+   width: 120px;
+}
